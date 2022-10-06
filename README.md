@@ -7,8 +7,6 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedadel56)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmedadel56&show_icons=true&hide_border=true">
-
 ## Certificates & Licenses
 <a href="https://www.credential.net/58ab306a-cf5a-4db7-b566-299ab4615671" target= "blank"><img 
 src="https://templates.images.credential.net/15834231169533149351764588695625.png" width="80"></a>
@@ -19,6 +17,8 @@ src="https://templates.images.credential.net/15790420075846753839720457960174.pn
 <a href="https://www.credential.net/3676e945-64ee-4b00-aa26-fe4aef3c92c1" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a>
 <a href="https://www.credential.net/a2375f60-7249-4548-9b2f-3ebe6490aac9" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a>
 <a href="https://www.credential.net/ed9e2db0-5a83-4dcc-9dd4-d38f00f98986" target="blank"><img src="https://templates.images.credential.net/15790420725707015843039145125501.png" width="80"></a>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmedadel56&show_icons=true&hide_border=true">
 
 ## 🧐 About
 

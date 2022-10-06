@@ -17,9 +17,6 @@ src="https://templates.images.credential.net/15790420075846753839720457960174.pn
 <a href="https://www.credential.net/3676e945-64ee-4b00-aa26-fe4aef3c92c1" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a>
 <a href="https://www.credential.net/a2375f60-7249-4548-9b2f-3ebe6490aac9" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a>
 <a href="https://www.credential.net/ed9e2db0-5a83-4dcc-9dd4-d38f00f98986" target="blank"><img src="https://templates.images.credential.net/15790420725707015843039145125501.png" width="80"></a>
-<a href="https://www.freecodecamp.org/certification/ahmedadel56/javascript-algorithms-and-data-structures" target="blank"><img src="https://www.freecodecamp.org/news/content/images/2022/06/Screenshot--126-.png" width="80"></a>
-<a href="https://www.datacamp.com/statement-of-accomplishment/course/8611c917f4085e52bf98f8f7a950a907cf39e5f0" target="blank"></a>
-
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmedadel56&show_icons=true&hide_border=true">
 

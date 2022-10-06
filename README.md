@@ -25,7 +25,7 @@ src="https://templates.images.credential.net/15790420075846753839720457960174.pn
 - 👨‍💻 **My portfolio**: https://ahmedadel56.github.io/portfolio-site/
 - 📫 **How to reach me**: ahmdadl563@gmail.com
 - 🌱 **Languages and Tools**: 
-
+    <div>
  ["https://www.credential.net/a529cdb0-a5c1-49ca-a948-7c4604dd488f"
    <div](https://www.credential.net/a69307dd-5a2f-4c19-a575-feea8ab921ed)>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
